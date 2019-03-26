@@ -4,7 +4,7 @@ GIMP 不是 Photoshop 替代品。
 
 本配置是将 Photoshop 快捷键移植到 GIMP。
 
-建议采用 GIMP 自带的快捷键，我个人认为它对按键的分配比 Adobe 更合理。
+建议采用 GIMP 自带的快捷键，我个人认为它对按键的分配比 Adobe 较合理，字母键大多是操作项的英文名首字母。
 
 
 ## 安装
@@ -147,6 +147,12 @@ Windows: `%appdata%\GIMP\2.10\`
 | Command           | Keybinding        |   |  |
 |:------------------|:------------------|---|--|
 | Path to Selection | `Ctrl` + `Return` | * |  |
+
+---
+
+## 窗口配置
+
+![gimp](https://i.loli.net/2019/03/26/5c9a2f5f9240a.png)
 
 ---
 

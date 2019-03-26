@@ -6,6 +6,10 @@ This extension ports popular Photoshop keyboard shortcuts to GIMP.
 
 After installing the extension and restarting GIMP your favorite keyboard shortcuts from Photoshop are now available.
 
+## Manually
+
+download, copy, paste...
+
 Linux/Mac: `~/.gimp-2.*`
 
 Windows: `%appdata%\GIMP\2.10\`
@@ -141,6 +145,12 @@ Windows: `%appdata%\GIMP\2.10\`
 | Command           | Keybinding        |   |  |
 |:------------------|:------------------|---|--|
 | Path to Selection | `Ctrl` + `Return` | * |  |
+
+---
+
+## GIMP Window
+
+![gimp](https://i.loli.net/2019/03/26/5c9a2ecdf0373.png)
 
 ---
 
