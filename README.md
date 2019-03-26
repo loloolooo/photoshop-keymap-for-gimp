@@ -147,3 +147,9 @@ Windows: `%appdata%\GIMP\2.10\`
 ## References
 
 - [Photoshop-ish Keyboard Shortcuts for The Gimp 2.8](http://epierce.freeshell.org/gimp/gimp_ps.php)
+
+---
+
+- [Gimp Tool](https://i.loli.net/2019/03/26/5c9a2912214ab.png)
+- [Photosho Toolbar](https://i.loli.net/2019/03/26/5c9a29137e7f3.png)
+- [Menu Diff](https://i.loli.net/2019/03/26/5c9a29130d7e5.png)
