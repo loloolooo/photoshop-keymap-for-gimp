@@ -19,18 +19,18 @@ Windows: `%appdata%\GIMP\2.10\`
 *From Photoshop CC 2019.
 
 ## File
-| Command        | Keybinding                     |   | Photoshop |
-|:---------------|:-------------------------------|---|-----------|
-| New            | `Ctrl` + `N`                   |   |           |
-| Open           | `Ctrl` + `O`                   |   |           |
-| Open as Layers | `Ctrl` + `Shift` + `O`         |   |           |
-| Save           | `Ctrl` + `S`                   |   |           |
-| Save As        | `Ctrl` + `Shift` + `S`         |   |           |
-| Export As      | `Ctrl` + `Shift` + `Alt` + `W` | * |           |
-| Print          | `Ctrl` + `P`                   |   |           |
-| Close View     | `Ctrl` + `W`                   |   |           |
-| Close all      | `Ctrl`+ `Shift` + `W`          |   |           |
-| Quit           | `Ctrl` + `Q`                   |   |           |
+| Command        | Keybinding                     |   |  |
+|:---------------|:-------------------------------|---|--|
+| New            | `Ctrl` + `N`                   |   |  |
+| Open           | `Ctrl` + `O`                   |   |  |
+| Open as Layers | `Ctrl` + `Shift` + `O`         |   |  |
+| Save           | `Ctrl` + `S`                   |   |  |
+| Save As        | `Ctrl` + `Shift` + `S`         |   |  |
+| Export As      | `Ctrl` + `Shift` + `Alt` + `W` | * |  |
+| Print          | `Ctrl` + `P`                   |   |  |
+| Close View     | `Ctrl` + `W`                   |   |  |
+| Close all      | `Ctrl`+ `Shift` + `W`          |   |  |
+| Quit           | `Ctrl` + `Q`                   |   |  |
 
 ## Edit
 | Command            | Keybinding                     |   |  |
