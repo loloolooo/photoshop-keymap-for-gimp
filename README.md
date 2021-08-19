@@ -10,9 +10,12 @@ After installing the extension and restarting GIMP your favorite keyboard shortc
 
 download, copy, paste...
 
-Linux/Mac: `~/.gimp-2.*`
+Linux/Mac: `~/.config/GIMP/2.*` 
 
-Windows: `%appdata%\GIMP\2.10\`
+Windows: `%appdata%\GIMP\2.*\`
+
+(Replace * with version number eg: '10' for gimp 2.10)
+
 
 *From Photoshop CC 2019.
 
