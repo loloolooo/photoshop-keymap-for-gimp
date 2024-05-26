@@ -10,7 +10,9 @@ After installing the extension and restarting GIMP your favorite keyboard shortc
 
 download, copy, paste...
 
-Linux/Mac: `~/.config/GIMP/2.*` 
+Linux: `~/.config/GIMP/2.*` 
+
+Mac: `~/Application Support/GIMP/2.*` 
 
 Windows: `%appdata%\GIMP\2.*\`
 
