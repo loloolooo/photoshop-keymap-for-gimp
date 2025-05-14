@@ -1,8 +1,8 @@
-# Photoshop Keymap for GIMP.
+# Photoshop Keymap for GIMP 3
 
 GIMP is Not a Photoshop Alternative.
 
-This extension ports popular Photoshop keyboard shortcuts to GIMP.
+This extension ports popular Photoshop keyboard shortcuts to GIMP 3.
 
 After installing the extension and restarting GIMP your favorite keyboard shortcuts from Photoshop are now available.
 
