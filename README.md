@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=loloolooo&project=photoshop-keymap-for-gimp&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # Photoshop Keymap for GIMP 3
 
 GIMP is Not a Photoshop Alternative.
